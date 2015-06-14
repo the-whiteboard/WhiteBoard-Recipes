@@ -16,4 +16,3 @@ Add all items to a blender, blend until smooth.
 ### See also
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Limonana)
-* 
