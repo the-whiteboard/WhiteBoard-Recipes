@@ -1,3 +1,5 @@
+# Recipe 1 #
+
 ## Tools: ##
 - Large boiling pot (or else half the recipe if your only pots are too small).
 - Cheese cloth
@@ -44,3 +46,5 @@ Optional mixins:
  - Wine (red! white would meld poorly)
  - Whiskey (the reduction of the Cider may be quite sweet depending on the cider used, the sweetness can go well with many whiskeys just as honey goes well with them)
  - Tea (I would encourage herbal, but a black tea may work well too, I would avoid mixing green)
+
+----
