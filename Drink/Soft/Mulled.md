@@ -1,5 +1,4 @@
 ## Tools: ##
-
 - Large boiling pot (or else half the recipe if your only pots are too small).
 - Cheese cloth
 - Strainer
@@ -8,7 +7,6 @@
 Optional but handy: Large bowl to strain the results into.
 
 ## Ingredients: ##
-
 - 1 Gallon of Apple Cider of your choosing (or red wine, though if you want a mulled red wine, I suggest using apple cider or water to make a concentrate for adding to your wine)
 - 2 Whole Navel Oranges
 - 1 Lemon
@@ -18,7 +16,6 @@ Optional but handy: Large bowl to strain the results into.
 Any of: AllSpice, Cloves whole or ground, Cinnamon Sticks, Pumpkin Pie Spice, Ground Cinnamon, or other fall flavors you personally enjoy.
 
 ## Steps: ##
-
 0. Get out your large boiling pot, your cutting board, and grab all the fresh ingredients together.
 1. Quarter the oranges and toss 'em in the pot.
 2. Half the lemon and toss it in the pot.
