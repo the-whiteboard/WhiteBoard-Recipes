@@ -1,6 +1,6 @@
 # Recipe 1 #
 
-- One part Mulled cider (recipe available [here](/Soft/mulled.md))
+- One part Mulled cider (recipe available [here](../../Soft/mulled.md))
 - One part Red Wine
  - **Note:** Depending on the concentration of the cider, you may change this ratio to taste.
 
