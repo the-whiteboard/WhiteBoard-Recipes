@@ -1,6 +1,7 @@
 # Recipe 1 #
 
 **Abstract:** The original purpose of grog was for sailers to be both peaceable and staying hydrated with something disinfected. This is obviously not a worthwhile reason to drink it now. Presently I encourage this drink for two reasons:
+
 1. It brings out the flavor of the rum, in much the same way as a dab of water does for whiskey. (Decent rum is required for this reason)
 2. It's a pleasantly refreshing drink on a hot day as it is mostly water.
 
