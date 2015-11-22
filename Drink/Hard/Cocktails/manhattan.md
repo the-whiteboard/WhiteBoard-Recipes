@@ -1,0 +1,10 @@
+- 1.5 oz Bourbon
+- So called "Perfect" (my preference):
+ - 0.5 oz Sweet vermouth
+ - 0.5 oz Dry vermouth
+- If not "Perfect":
+ - 0.75 oz Sweet vermouth
+- 2-4 splashes of Angostura Bitters depending on how much you like them
+- If available: One maraschino cherry
+ - Optionally: A splash of maraschino cherry juice
+- ice
