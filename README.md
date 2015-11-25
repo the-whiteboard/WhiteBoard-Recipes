@@ -38,6 +38,9 @@ Food and drink from Stack Exchange's Whiteboard chat room
   - Hard
     - [Manhattan](Drink/Hard/Cocktails/manhattan.md)
     - [Irish Coffee](Drink/Hard/Hot/irishCoffee.md)
+ - Victuals
+  - Dessert
+    - [Chocolate Chip Shortbread Cookies](Food/Dessert/Shortbread.md)
 
 ----
 
@@ -53,7 +56,8 @@ Food and drink from Stack Exchange's Whiteboard chat room
     - [Hot Toddy](Drink/Hard/Hot/hotToddy.md)
     - [Irish Coffee](Drink/Hard/Hot/irishCoffee.md)
  - Victuals
-   - None yet :(
+  - Dessert
+    - [Chocolate Chip Shortbread Cookies](Food/Dessert/Shortbread.md)
 
 ### Sour ###
  - Libations
