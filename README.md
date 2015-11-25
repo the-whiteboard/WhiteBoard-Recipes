@@ -40,7 +40,7 @@ Food and drink from Stack Exchange's Whiteboard chat room
     - [Irish Coffee](Drink/Hard/Hot/irishCoffee.md)
  - Victuals
   - Dessert
-    - [Chocolate Chip Shortbread Cookies](Food/Dessert/Shortbread.md)
+    - [Chocolate Chip Shortbread Cookies](Food/Desserts/Shortbread.md)
 
 ----
 
