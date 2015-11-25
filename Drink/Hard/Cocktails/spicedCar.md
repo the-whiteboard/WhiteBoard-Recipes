@@ -1,4 +1,3 @@
-- 1 oz cold mulled cider (recipe available [here](../../Soft/mulled.md))
+- 1.5 oz cold mulled cider (recipe available [here](../../Soft/mulled.md))
 - 1.5 oz brandy
-- 0.5 oz lemon juice
 - ice
