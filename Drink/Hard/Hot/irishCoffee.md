@@ -2,8 +2,8 @@
 
 - 6-8 oz Hot coffee (depending on how strong you want the flavor)
 - 1 oz Irish whiskey
-- 1.5 tbsp. Brown sugar
-- 1 tsp. Cinnamon
+- 1 tbsp. Brown sugar
+- 0.5 tsp. Cinnamon
 - 1 tbsp. Milk or cream of your choosing.
 
 **Substitutions:**
