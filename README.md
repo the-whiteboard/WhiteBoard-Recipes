@@ -1,5 +1,5 @@
 # WhiteBoard-Recipes
-Food and drink from Stack Exchange's Whiteboard chat room
+Food and drink from Stack Exchange's The Whiteboard chat room
 
 ----
 
@@ -97,6 +97,6 @@ Food and drink from Stack Exchange's Whiteboard chat room
  - Libations
   - Soft
   - Hard
-    - [Manhattan](Drink/Hard/Cocktails/manhattan.md) 
+    - [Manhattan](Drink/Hard/Cocktails/manhattan.md)
  - Victuals
   - None yet :(
