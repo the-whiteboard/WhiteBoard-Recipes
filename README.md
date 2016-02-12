@@ -1,5 +1,5 @@
 # WhiteBoard-Recipes
-Food and drink from Stack Exchange's The Whiteboard chat room
+Food and drink from Stack Exchange's Whiteboard chat room
 
 ----
 
