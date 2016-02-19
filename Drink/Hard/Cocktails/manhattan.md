@@ -1,4 +1,4 @@
-- 1.5 oz Bourbon
+- 1.5 oz Bourbon or Rye (classic recipe calls for Rye, both work well though)
 - So called "Perfect" (my preference):
  - 0.5 oz Sweet vermouth
  - 0.5 oz Dry vermouth
