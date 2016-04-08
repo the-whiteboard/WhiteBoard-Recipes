@@ -5,8 +5,9 @@
 
 ----
 
+- Tall glass 1/3rd full of ice
 - 1.5 oz Dark rum
  - **NOT spiced or white rum**. Examples of good dark rum: Myers, Cruzan, Mount Gay, Pussers, Appleton Estate.
 - 3 oz Water
 - 0.5 oz Lemon juice
-- Optional: 0.5 tbsp. Honey if you find the flavor wanting.
+- Optional: 0.5-1.5 tbsp. Honey if you find the flavor wanting; depending on your preference for sour
